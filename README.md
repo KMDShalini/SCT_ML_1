@@ -2,12 +2,12 @@
 A linear regression model to predict the prices of houses based on their square footage and the number of bedrooms and bathrooms:
 House Price Prediction with Linear Regression
 
-Overview
+Overview:
 This project implements a linear regression model to predict house prices based on square footage, number of bedrooms, and bathrooms. 
 
 
 
-Requirements
+Requirements:
 
 Python 3.x
 
@@ -20,7 +20,7 @@ numpy
 scikit-learn
 
 
-Usage
+Usage:
 
 Run the Jupyter notebook housepriceprediction.ipynb 
 
@@ -35,7 +35,7 @@ Evaluate the model's performance using metrics like Mean Squared Error (MSE) and
 
 Make predictions for new data points.
 
-File Descriptions
+File Descriptions:
 
 housepriceprediction.ipynb: Jupyter notebook containing the implementation of the linear regression model.
 
